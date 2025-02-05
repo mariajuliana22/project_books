@@ -22,12 +22,12 @@ The purpose of this analysis is to extract key insights about books, publishers,
 - Analyze the average number of reviews written by users who have rated more than 50 books.
 
 ## Herramientas Utilizadas / Tools Used
-SQL: Lenguaje principal para la consulta y análisis de datos. 
-Pandas: Manipulación y análisis de datos.
-SQLAlchemy: Conexión y manejo de bases de datos SQL desde Python. 
+- SQL: Lenguaje principal para la consulta y análisis de datos. 
+- Pandas: Manipulación y análisis de datos.
+- SQLAlchemy: Conexión y manejo de bases de datos SQL desde Python. 
 
 ---
 
-SQL: Main language for querying and analyzing data.
-Pandas: Data manipulation and analysis.
-SQLAlchemy: Database connection and management using SQL in Python.
+- SQL: Main language for querying and analyzing data.
+- Pandas: Data manipulation and analysis.
+- SQLAlchemy: Database connection and management using SQL in Python.
