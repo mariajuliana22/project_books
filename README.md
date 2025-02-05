@@ -1,14 +1,13 @@
-# project_books
-SQL
+# SQL-Book-Analytics
 
-Proyecto hecho para TripleTen (Bootcamp online) - Sprint 14. Proyecto final (SQL) / Project completed for TripleTen (Online Bootcamp) - Sprint 14. Final project (SQL)
+Proyecto hecho para TripleTen (Bootcamp online) - Sprint 14. Proyecto final (SQL) 
 
-El coronavirus tomó al mundo entero por sorpresa, cambiando la rutina diaria de todos y todas. Los habitantes de las ciudades ya no pasaban su tiempo libre fuera, yendo a cafés y centros comerciales; sino que más gente se quedaba en casa, leyendo libros. Eso atrajo la atención de las startups (empresas emergentes) que se apresuraron a desarrollar nuevas aplicaciones para los amantes de los libros.
+Project completed for TripleTen (Online Bootcamp) - Sprint 14. Final project (SQL)
 
-Han suministrado una base de datos de uno de los servicios que compiten en este mercado. Contiene datos sobre libros, editoriales, autores y calificaciones de clientes y reseñas de libros. Esta información se utilizará para generar una propuesta de valor para un nuevo producto.
-
---
-
-The coronavirus took the whole world by surprise, changing everyone’s daily routine. City dwellers no longer spent their free time outside, going to cafés and shopping malls; instead, more people stayed at home, reading books. This caught the attention of startups that rushed to develop new apps for book lovers.
-
-They have provided a database from one of the services competing in this market. It contains data on books, publishers, authors, customer ratings, and book reviews. This information will be used to generate a value proposition for a new product.
+## Objetivos del estudio
+El propósito de este análisis es extraer información clave sobre libros, editoriales y autores de una base de datos, con el fin de generar una propuesta de valor para una nueva aplicación de lectura. En particular, se busca:
+- Determinar la cantidad de libros publicados después del 1 de enero de 2000.
+- Calcular el número de reseñas y la calificación promedio de cada libro.
+- Identificar la editorial con más publicaciones de libros con más de 50 páginas.
+- Encontrar el autor con la calificación promedio más alta (considerando solo libros con al menos 50 calificaciones).
+- Analizar el número promedio de reseñas escritas por usuarios que han calificado más de 50 libros.
